@@ -7,14 +7,13 @@
 
 body{
     background-color:#ffffff;
-    width: 80%;
+    width: 70%;
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
-
 .logo{
     max-width: 500px;
     margin-bottom: 24px;
