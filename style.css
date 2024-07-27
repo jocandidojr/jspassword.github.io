@@ -13,6 +13,7 @@ body{
     align-items: center;
     flex-direction: column;
     border: 50px;
+    text-align: center;
 }
 .logo{
     width: 350px;
